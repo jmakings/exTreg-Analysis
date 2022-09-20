@@ -6,4 +6,4 @@ Includes:
 - Python script for comparison and visualization of T-cell receptor V genes and V-J gene combinations across donors and T-cell subsets. 
 - R code utilizing Destiny single-cell trajectory analysis (psuedotime)
 - Differential Expression (DE) of single cell T-cell data using Seurat
-- Visualization single-cell heatmaps as well as pseudobulk heatmaps of RNA transcript and marker data
+- Visualization using single-cell heatmaps as well as pseudobulk heatmaps of RNA transcript and marker data
