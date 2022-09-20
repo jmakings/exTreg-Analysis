@@ -7,3 +7,5 @@ Includes:
 - R code utilizing Destiny single-cell trajectory analysis (psuedotime)
 - Differential Expression (DE) of single cell T-cell data using Seurat
 - Visualization using single-cell heatmaps as well as pseudobulk heatmaps of RNA transcript and marker data
+
+Ley Lab, La Jolla Institute for Immunology
